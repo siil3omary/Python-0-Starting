@@ -1,9 +1,8 @@
 import time
 
-
 print(
     "Seconds since January 1, 1970:",
-    time.time(),
+    "{:,.4f}".format(time.time()),
     "or",
     "{:e}".format(time.time()),
     "in scientific notation",
