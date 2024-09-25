@@ -6,7 +6,7 @@ print(
     time.time(),
     "or",
     "{:e}".format(time.time()),
-	"in scientific notation",
+    "in scientific notation",
 )
 
 date = time.localtime(time.time())
