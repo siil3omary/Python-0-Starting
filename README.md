@@ -68,13 +68,3 @@ This repository contains a set of Python exercises designed to teach and reinfor
 **Directory**: `ex09/`  
 **Files**: `*.py, *.txt, *.toml, README.md, LICENSE`  
 **Task**: Create and distribute your first Python package.
-
-## Submission and Evaluation
-
-- Submit your work to the assigned Git repository.
-- Only the content in the repository will be evaluated.
-- Follow the provided directory structure and file names for each exercise.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
